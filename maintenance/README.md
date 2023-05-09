@@ -1,6 +1,4 @@
-# scripts
-
-## Maintenance script
+# Maintenance script
 
 ## Files:
 
